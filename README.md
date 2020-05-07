@@ -4,7 +4,7 @@ CLion Docker Development Env
 # env
 
 * Ubuntu 18.0.4: gcc 7
-* Ubuntu 19.10: gcc 9
+* Ubuntu 20.04: gcc 9
 
 
 # References

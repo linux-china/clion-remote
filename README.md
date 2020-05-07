@@ -9,4 +9,5 @@ CLion Docker Development Env
 
 # References
 
+* Clion Remote Development: https://www.jetbrains.com/help/clion/remote-development.html
 * CLion Toolchains in Docker: https://www.youtube.com/watch?v=h69XLiMtCT8
